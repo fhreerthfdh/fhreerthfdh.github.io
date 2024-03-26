@@ -12,20 +12,25 @@
             justify-content: center;
             height: 100vh;
             margin: 0;
+            padding: 10px; /* Adds some padding around the body content */
         }
-        img {
-            width: 100px; /* Adjust as needed */
-            margin: 20px 0; /* Adds space above and below the image */
+        .app-icon {
+            width: 30vw; /* App icon width as a percentage of the viewport width */
+            margin: 2vw 0; /* Dynamic margin based on viewport width */
+        }
+        .link-image {
+            width: 60vw; /* Link image width as a percentage of the viewport width */
+            margin: 4vw 0; /* Dynamic margin based on viewport width */
         }
     </style>
 </head>
 <body>
     <!-- App Icon: Replace 'app-icon.png' with the path to your actual app icon image -->
-    <img src="icon.png" />
+    <img src="app-icon.png" alt="App Icon" class="app-icon" />
 
     <!-- Link Image: Replace 'link-image.png' with the path to your actual link image -->
     <a href="https://play.google.com/store/apps/details?id=coloring.color.number.asmr.paint.draw.drawing.pixel.art">
-        <img src="g.png"  />
+        <img src="g.png" alt="Link Image" class="link-image" />
     </a>
 </body>
 </html>
