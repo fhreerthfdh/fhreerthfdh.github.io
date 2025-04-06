@@ -23,6 +23,8 @@ rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 google.com, pub-3769010358500643, RESELLER, f08c47fec0942fa0 
 freewheel.tv, 20393, RESELLER 
 freewheel.tv, 24377, RESELLER 
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 yahoo.com, 58905, RESELLER e1a5b5b6e3255540 
 aol.com, 58905, RESELLER, e1a5b5b6e3255540 
 zeststack.com, 396, RESELLER 
