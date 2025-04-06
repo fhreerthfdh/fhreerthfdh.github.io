@@ -22,7 +22,8 @@ admanmedia.com, 2063, RESELLER
 themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
 video.unrulymedia.com, 188404962, RESELLER
 contextweb.com, 558638, RESELLER, 89ff185a4c4e857c
-
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 mintegral.com, 38535, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
