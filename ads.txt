@@ -9,6 +9,8 @@ pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157097, RESELLER, 5d62403b186f2ace
 Blis.com, 33, RESELLER, 61453ae19a4b73f4
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 blis.com, 33, RESELLER, 61453ae19a4b73f4
 pubmatic.com, 159035, RESELLER, 5d62403b186f2ace
 thebrave.io, 1234568, RESELLER, c25b2154543746ac
