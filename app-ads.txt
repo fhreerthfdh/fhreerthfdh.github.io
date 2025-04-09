@@ -5,6 +5,8 @@ vungle.com,[yourVunglePublisherAccountID],DIRECT,c107d686becd2d77
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
 Media.net,8CU12AQ1Y,RESELLER
 Media.net,8CU9B72O6,RESELLER
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 acexchange.co.kr,1317287336,RESELLER
 acexchange.co.kr,1854269911,RESELLER
 adelement.com,30208,RESELLER
